@@ -1055,6 +1055,11 @@ a:hover {
   padding: 0;
 }
 
+.aspectRatio{
+  aspect-ratio: 3/2;
+  background-size: cover;
+  background-position: top;
+}
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
